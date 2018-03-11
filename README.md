@@ -7,3 +7,4 @@ What we learned :
 -using Arduino to bring live sensor information into Max
 
 ![MAXPatchImg](MAXPatchImg.png)
+![ExampleInputImage](example_input.png)

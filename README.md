@@ -6,3 +6,4 @@ What we learned :
 -techniques of real-time interaction with digital multimedia
 -using Arduino to bring live sensor information into Max
 
+![MAXPatchImg](MAXPatchImg.png)
